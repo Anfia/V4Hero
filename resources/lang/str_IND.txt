@@ -144,8 +144,12 @@ kirajin_talk_7|Menyerahlah! Ini sudah berakhir!
 kirajin_talk_8|Kami benci Patapon!
 kirajin_talk_9|Sekarang, serang!
 menu_continue|Lanjutkan
+menu_controlleradvice|Direkomendasikan menggunakan kontroler\untuk pengalaman bermain yang lebih baik.
 menu_exit|Keluar
 menu_invaliddata|Data save tidak sah atau rusak.
+menu_languageselect|Pilih bahasa
+menu_languagetip|Terjemahan ada di sini berkat\para kontributor kami yang luar biasa.
+menu_languagetip2|Ingin membantu? Klik disini untuk mengunjungi\situs Patafour untuk informasi lebih lanjut.
 menu_newgame|Permainan baru
 menu_nodata|Tidak dapat menemukan data save.
 menu_nosupportdata|Data save dari versi lama\Patafour tidak dapat dipakai.
