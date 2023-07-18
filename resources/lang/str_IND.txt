@@ -162,51 +162,51 @@ mission_failed|MISI GAGAL!
 nav_agree|Setuju
 nav_attack|Serang
 nav_cancel|Batal
-nav_changeequip|Ganti Perlengkapan
+nav_changeequip|Ganti perlengkapan
 nav_charge|Siap
 nav_circle|Lingkaran
 nav_cross|Silang
-nav_defend|Pertahan
+nav_defend|Bertahan
 nav_down|Bawah
 nav_enter|Masuk
-nav_entermission|Mulai Misi
-nav_equipitem|Pakai Item
+nav_entermission|Mulai misi
+nav_equipitem|Pakai perlengkapan
 nav_exit|Keluar
 nav_exittopatapolis|Kembali ke Patapolis
-nav_exittotitle|Keluar ke Judul
+nav_exittotitle|Keluar ke Menu Utama
 nav_interact|Interaksi
 nav_jump|Lompat
 nav_leave|Pergi
 nav_left|Kiri
 nav_move|Pindah
 nav_navigate|Navigasi
-nav_navigateitem|Navigasi Barang
+nav_navigateitem|Navigasi barang
 nav_next|Lanjut
-nav_nextpage|Halaman Selanjutnya
+nav_nextpage|Halaman selanjutnya
 nav_no|Tidak
 nav_onward|Maju
 nav_party|Pesta
 nav_previous|Sebelum
-nav_previouspage|Halaman Sebelumnya
+nav_previouspage|Halaman sebelumnya
 nav_retreat|Mundur
 nav_returntofield|Kembali ke pilihan area
-nav_returntomap|Kembali ke Peta Dunia
+nav_returntomap|Kembali ke peta dunia
 nav_returntopatapolis|Kembali ke Patapolis
 nav_right|Kanan
-nav_savegame|Save Game
+nav_savegame|Simpan permainan
 nav_scroll|Gulir
 nav_selectequip|Pilih perlengkapan
 nav_selectfield|Pilih area
-nav_selectmission|Pilih Misi
-nav_selectunit|Pilih Unit
+nav_selectmission|Pilih misi
+nav_selectunit|Pilih unit
 nav_square|Kotak
-nav_startmission|Mulai Misi
+nav_startmission|Mulai misi
 nav_summon|Mukjizat
 nav_triangle|Segitiga
-nav_understood|Saya mengerti
+nav_understood|Mengerti
 nav_up|Atas
 nav_viewmissions|Lihat Misi
-nav_yes|Iya
+nav_yes|Ya
 newgame_intro_1|Setelah menyelesaikan Jembatan Patapole,\kami akhirnya sampai di daratan baru,\tak tersentuh oleh tangan Patapon Mahakuasa.
 newgame_intro_10|Saat sosok tersebut mulai mendekati kami, kami untungnya terselamatkan\oleh mesin kuno yang kami telah gunakan sebelumnya,\nyaris dari cengkeraman maut kematian.
 newgame_intro_11|...
