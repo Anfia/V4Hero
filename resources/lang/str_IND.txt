@@ -207,20 +207,20 @@ nav_understood|Saya mengerti
 nav_up|Atas
 nav_viewmissions|Lihat Misi
 nav_yes|Iya
-newgame_intro_1|Setelah menyelesaikan jembatan Patapolis,\kita akhirnya sampai di tanah baru,\tak tersentuh oleh tangan Patapon Mahakuasa.
-newgame_intro_10|Saat sosok tersebut mulai mendekati kami, kami terselamatkan oleh\mesin kuno yang kami telah gunakan,\nyaris melarikan diri dari kematian.
+newgame_intro_1|Setelah menyelesaikan Jembatan Patapole,\kami akhirnya sampai di daratan baru,\tak tersentuh oleh tangan Patapon Mahakuasa.
+newgame_intro_10|Saat sosok tersebut mulai mendekati kami, kami untungnya terselamatkan\oleh mesin kuno yang kami telah gunakan sebelumnya,\nyaris dari cengkeraman maut kematian.
 newgame_intro_11|...
-newgame_intro_12|Mahakuasa, saya berdoa kepadamu!\Pandukan kita ke ujung dunia!
-newgame_intro_13|Selamatkan dunia kita dari kejahatan\dan bantu kita melihat ITU!
-newgame_intro_14|Tolong ambillah Gendang Mulia ini\dan kami akan berbaris!
-newgame_intro_2|Di tanah asing ini, kami menemukan\reruntuhan dari peradaban kuno\yang terlihat sudah lama terlupakan.
-newgame_intro_3|Putus asa ingin menemukan ITU, kami mulai mengutak-atik\dengan mekanisme-mekanisme kuno yang\kami temukan terkubur di reruntuhan tersebut.
-newgame_intro_4|Dengan sebuah tekanan tombol, ketiga Yaripon kita,\Sang Pahlawan, dan saya telah terkirim ke\tempat yang aneh dan asing, dipenuhi oleh margasatwa dan tanaman,\seperti tidak ada penghuni.
-newgame_intro_5|Cemas dengan kawan-kawan kami,\kami mencoba semuanya untuk kembali,\dan kami berhasil!
-newgame_intro_6|Tetapi...
-newgame_intro_7|Saat kami kembali, kami melihat\mayat-mayat kawan-kawan kami. Dilihat dari\luka-luka mereka, mereka baru saja meninggal.
-newgame_intro_8|Langit berwarna merah seperti darah,\dan jeritan dari beberapa penyintas\dapat kami dengar dari jauh.
-newgame_intro_9|Kami melihat ke atas langit, dan\melihat sosok misterius mengapung\di atas kita. Matanya dipenuhi oleh kebencian.
+newgame_intro_12|Mahakuasa, aku berdoa kepadamu!\Mohon pandulah kita ke Ujung Dunia!
+newgame_intro_13|Selamatkan dunia kami dari kejahatan\dan biarkanlah kita untuk menatap ITU!
+newgame_intro_14|Tolong, ambillah Gendang Mulia ini\dan biarkanlah kami berbaris sekali lagi!
+newgame_intro_2|Di daratan asing ini, kami menemukan\reruntuhan dari peradaban kuno\yang terlihat sudah lama terlupakan.
+newgame_intro_3|Putus asa untuk menemukan ITU, kami mulai mengutak-atik\dengan mekanisme-mekanisme kuno\yang kami temukan terkubur di reruntuhan tersebut.
+newgame_intro_4|Dengan sebuah tekanan tombol, ketiga Yaripon kita,\Sang Pahlawan, dan aku telah terkirim\ke tempat yang aneh dan asing, dipenuhi oleh margasatwa dan tanaman,\yang tampaknya tidak memiliki peradaban.
+newgame_intro_5|Cemas dengan kawan-kawan kami,\kami mencoba semua upaya apapun untuk kembali,\dan berkat Patapon Mahakuasa kami berhasil kembali!
+newgame_intro_6|Namun...
+newgame_intro_7|Saat kami kembali, kami melihat\mayat kawan-kawan kami. Dilihat dari\luka-luka mereka, mereka baru saja meninggal.
+newgame_intro_8|Langit berwarna merah seperti darah,\dan jeritan dari beberapa kecil penyintas\dapat kami dengar dari kejauhan.
+newgame_intro_9|Kami melihat ke atas langit,\dan melihat sosok misterius mengapung di atas kita.\Matanya dipenuhi oleh kebencian.
 npc_sen_1|Oh Tuhan yang hebat,\pimpinlah kami ke ujung dunia!
 npc_sen_10|Para Kirajin membangun benteng lagi\di Tebing Ejiji.
 npc_sen_11|Kita tidak boleh memperbolehkan\mereka menang...! Pergi dan\kalahkan mereka, Tuhan!
