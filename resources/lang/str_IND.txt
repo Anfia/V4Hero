@@ -143,16 +143,16 @@ kirajin_talk_6|Inilah akhir kamu!
 kirajin_talk_7|Menyerahlah! Ini sudah berakhir!
 kirajin_talk_8|Kami benci Patapon!
 kirajin_talk_9|Sekarang, serang!
-menu_continue|Teruskan
+menu_continue|Lanjutkan
 menu_exit|Keluar
-menu_invaliddata|Data save tidak valid atau terkorupsi.
-menu_newgame|Game Baru
+menu_invaliddata|Data save tidak sah atau rusak.
+menu_newgame|Permainan baru
 menu_nodata|Tidak dapat menemukan data save.
 menu_nosupportdata|Data save dari versi lama\Patafour tidak dapat dipakai.
 menu_options|Pengaturan
-menu_pressanykey|Pencet tombol apapun untuk mulai
-menu_saveexists|Sudah ada data save.\Apakah anda ingin menghapuskannya?
-mission_backtopatapolis|Apakah tentu ingin kembali ke Patapolis?\Semua barang yang sudah terkumpul di misi ini akan hilang.
+menu_pressanykey|Tekan tombol apapun untuk memulai
+menu_saveexists|Sudah ada data save.\Apakah anda ingin menimpa nya?
+mission_backtopatapolis|Apakah kamu ingin kembali ke Patapolis?\Semua bahan dan Ka-ching akan hilang.
 mission_complete|MISI SELESAI!
 mission_failed|MISI GAGAL!
 nav_agree|Setuju
