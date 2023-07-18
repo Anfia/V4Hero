@@ -359,8 +359,8 @@ tip7_desc|Sen adalah pendeta wanita dari peradaban kuno Patapon.\\Dia adalah tau
 tip7_title|Sen Ranrurupon di Patapolis Kuno
 tip8_desc|Apakah anda tahu bahwa Patapolis merayakan natal?\\Selama perayaan natal, Patapon menghias\Patapolis dengan berbagai ornamen warna-warni.\\Patapon-patapon kecil menunggu Santapon\untuk memberi mereka apa yang mereka harapkan.\\Biasanya, mereka mendapatkan senjata pertamanya\agar mereka dapat mulai bertempur\untuk Sang Mahakuasa.
 tip8_title|Natal di Patapolis
-tips_anykey|Tekan tombol apapun untuk lanjut
-tips_loading|Memuat
+tips_anykey|Tekan tombol apapun untuk melanjutkan
+tips_loading|Sedang memuat
 worldmap_header_1|Peta Dunia Patapon
 worldmap_location_1_description|Udara lembab yang meniup membuat lembah ini sempurna sebagai habitat kepada hampir semua jenis tumbuhan, bahkan pakis asal dari lembah ini tumbuh hingga ketinggian dahsyat! Untuk beberapa generasi, berbagai suku telah menggunakan area subur ini untuk berburu hewan dan mengumpulkan sayuran. Ini adalah bentang darat aneh yang dapat membingungkan, dan banyak orang berdesas-desus bahwa ada rahasia tersembunyi di wilayah ini.
 worldmap_location_1_title|~ Lembah Shida~
