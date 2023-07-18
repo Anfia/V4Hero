@@ -68,14 +68,14 @@ desc_tender_meat|Para Patapon sangat menyukai daging yang lezat lembut ini, teta
 desc_titanum_ore|Legenda berkata bahwa bijih yang keras dan ringan ini diberikan kepada Patapon oleh Mahakuasa. Titanium dapat bertahan selama bertahun-tahun dan merupakan bahan sempurna untuk jenis pasukan yang membutuhkan pergerakan cepat.
 desc_wooden_helmet|Helm kayu tradisional asal Patapon. Helm ini adalah merek regu pemburunya, dan meskipun desainnya yang sederhana, helm ini telah menyelamati banyak Patapon.
 desc_wooden_spear|Sebuah tombak kayu biasa yang diberikan kepada setiap rekrut Patapon saat mencapai umur dewasa dan mulai berburu. Dihargai oleh banyak Patapon, bahkan saat mereka telah mendapatkan senjata yang lebih kuat.
-firstrun_dialog_1|Selamat datang ke Demo Patafour!\Tekan Z untuk lanjut.
-firstrun_dialog_2|Ini adalah pertama kali anda menjalankan Demo ini,\jadi inilah beberapa informasi penting.
-firstrun_dialog_3|Patafour adalah proyek yang sedang dikembangkan secara aktif.\Ini bukan produk akhir dan masih jauh dari selesai.
-firstrun_dialog_4|Demo ini akan menunjukkan beberapa\mekanisme dasar yang telah dapat kami selesaikan.
-firstrun_dialog_5|Tim Patafour berharap anda akan suka\proyek kami ini!
-firstrun_dialog_6|Inilah beberapa petunjuk:\Z - Konfirmasi (Silang)\X - Batalkan (Lingkaran)\Enter - Start\Space - Select
-firstrun_dialog_7|Anda dapat mengatur dan menggantinya\di menu pengaturan.
-firstrun_dialog_8|Kami merekomendasi menggunakan sebuah kontroler\untuk pengalaman yang terbaik.
+firstrun_dialog_1|Selamat datang di Demo Patafour!\Tekan Z untuk melanjutkan.
+firstrun_dialog_2|Ini adalah pertama kali kamu menjalankan Demo ini,\jadi inilah beberapa informasi penting.
+firstrun_dialog_3|Patafour adalah proyek yang sedang dikembangkan secara aktif.\Ini bukan produk akhir yang siap jadi dan masih jauh dari kata selesai.
+firstrun_dialog_4|Demo ini akan menunjukkan kepada kamu\beberapa inti mekanisme dasar yang telah kami selesaikan saat ini.
+firstrun_dialog_5|Tim Patafour berharap kamu akan suka\pada proyek kecil kami ini!
+firstrun_dialog_6|Berikut ini adalah kontrol dasar untuk bermain:\Z - Konfirmasi (Silang)\X - Batal (Lingkaran)\Enter - Start\Spasi - Select
+firstrun_dialog_7|Kamu dapat mengatur dan menggantinya\di menu pengaturan.
+firstrun_dialog_8|Kami merekomendasikan untuk menggunakan sebuah kontroler\untuk pengalaman yang terbaik.
 firstrun_dialog_9|Selamat bermain!
 item_banal_branch|Cabang Banal
 item_chaka_drum|Gendang Chaka
