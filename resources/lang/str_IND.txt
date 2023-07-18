@@ -343,21 +343,21 @@ patapolis_tree|Mater, Pohon Kehidupan
 patapolis_wakapon|Wakapon Sang Penjaga
 rarepon_normal|Normal
 rarepon_normal_desc|Sebuah pejuang asal suku Patapon yang biasa. Mereka terkenal untuk sikapnya yang tabah dan berani. Walaupun Patapon ini kecil, dengan pola pikir yang benar, mereka dapat melakukan apapun!
-tip1_desc|Berburu Kachik di Lembah Shida adalah tradisi kuno Patapon.\\Binatang lambat ini telah memberi makan\suku Patapon dari banyak generasi,\dan bergabung sebuah perburuan biasanya adalah \pengalaman pertama Patapon memegang tombak.\\Walaupun indra penciumannya tidak sebaik Mochichi,\masih lebih baik untuk menunggu\angin sakal sebelum mendekatinya,\agar mereka tidak tahu didekati oleh Patapon.
-tip1_title|Berburu Kachik
-tip2_desc|Dapatkan daging dari berburu!\Burulah hewan agar suku Patapon dapat makan.\Apapun yang terjadi di dunia,\Patapon membutuhkan daging untuk mengisi perutnya!\\Bila anda telah memimpin para Patapon dengan baik,\mereka akan mempersembahkan daging untukmu di Altar!\\Kachik-kachik memberikan Daging Kulit.\Mochichi memberikan Daging Halus.\\Sesudah berburu, jangan lupa untuk pergi ke Altar!
+tip1_desc|Berburu Kacheek di Lembah Shida adalah tradisi kuno Patapon.\\Binatang lambat ini telah memberi makan\suku Patapon dari banyak generasi,\dan bergabung dalam sebuah perburuan\biasanya merupakan pengalaman pertama\Patapon memegang tombak.\\Walaupun indra penciumannya tidak sebaik Mochichi,\akan lebih baik untuk menunggu\angin sakal sebelum mendekatinya,\agar mereka tidak akan menghirup\Patapon yang mendekatinya.
+tip1_title|Berburu Kacheek
+tip2_desc|Dapatkan daging dari berburu!\\Burulah hewan agar suku Patapon mendapat makan.\Apapun yang terjadi di dunia,\Patapon membutuhkan daging untuk mengisi perutnya!\\Bila kamu telah memimpin para Patapon dengan baik,\mereka akan mempersembahkan daging\untukmu di Altar!\\Kacheek memberikanmu Daging Kulit.\Mochichi memberikanmu Daging Halus.\\Sesudah berburu, jangan lupa untuk pergi ke Altar!
 tip2_title|Hasil Berburu
-tip3_desc|Belukar Patapine terkenal karena\seringnya Patapon tersesat di tempat itu.\\Pohon-pohon besar dari Patapine Grove adalah\bahan yang sempurna untuk bangunan yang kuat,\karena daya tahannya yang luar biasa.\\Banyak Patapon penebang kayu menghabiskan hidupnya\mengumpulkan kayu, dan pohon-pohon baru\tumbuh di sana setiap hari.
+tip3_desc|Belukar Patapine terkenal karena\seringnya Patapon tersesat di tempat itu.\\Pohon-pohon besar tersebut\adalah bahan yang sempurna\untuk bangunan yang kuat,\karena daya tahannya yang luar biasa.\\Banyak Patapon penebang kayu\menghabiskan seluruh hidupnya\untuk mengumpulkan kayu,\dan pohon-pohon baru\tumbuh di sana setiap hari.
 tip3_title|Kayu Kokoh dari Belukar Patapine
-tip4_desc|Mendapatkan Perintah Sempurna adalah kunci\untuk kinerja maksimal.\\Ketika anda mengetuk gendang dengan sempurna,\anda akan mendengarkan suara “shing.”\\Berbagai manfaat datang dari Perintah Sempurna.\\Mengetuk dengan tepat adalah keterampilan yang berguna!
+tip4_desc|Mendapatkan Perintah Sempurna\adalah kunci untuk kinerja maksimal.\\Ketika kamu mengetuk semua 4 gendang dengan sempurna,\kamu akan mendengarkan suara “shing.”\\Berbagai manfaat datang dari Perintah Sempurna!\Patapon dapat berjalan lebih cepat,\memberikan kekuatan dan kerusakan yang lebih.\\Mengetuk dengan tepat adalah\keterampilan yang berguna untuk dipelajari!
 tip4_title|Perintah Sempurna
-tip5_desc|PON PON CHAKA CHAKA menyiapkan pasukanmu.\\Anda dapat menggunakan perintah ini untuk keuntunganmu!\\Jadilah lebih kuat saat menyerang!\\Jadilah lebih kuat saat berlindung!\\Beberapa jenis pasukan mempunyai serangan khusus\saat disiapkan.
-tip5_title|Ingat untuk bersiap!
-tip6_desc|Wakapon adalah penjaga Telur Dunia yang bersinar\di tengah jembatan Patapolis.\\Telur Dunia membawa perdamaian ke dunia Patapon.\\Legenda-legenda berkata bahwa memecahkannya akan\melepaskan kejahatan dari neraka.\\Sang Wakapon berjanji kepada Tuhan bahwa ia akan\melakukan apapun untuk menjaganya,\bahkan akan memberi nyawanya.
+tip5_desc|PON PON CHAKA CHAKA memberikan\kesiapan kekuatan untuk pasukanmu.\\Kamu dapat menggunakan perintah ini\untuk keuntunganmu!\\Memberikan kekuatan dan kerusakan\lebih dari dua kali lipat saat menyerang!\\Mengurangi rasa sakit dan kerusakan\yang diterima saat bertahan!\\Beberapa jenis pasukan mempunyai\serangan khusus saat memberi siap.
+tip5_title|Ingat untuk Bersiap!
+tip6_desc|Wakapon adalah penjaga Telur Dunia\yang bersinar di tengah Jembatan Patapolis.\\Telur Dunia membawa perdamaian ke dunia Patapon.\\Legenda mengatakan bahwa jika memecahkannya\akan melepaskan semua kejahatan dari neraka.\\Sang Wakapon berjanji kepada Tuhan bahwa ia\akan melindungi Telur Dunia apapun caranya\sekalipun nyawanya yang menjadi taruhan nya.
 tip6_title|Wakapon dan Telur Dunia
-tip7_desc|Sen adalah pendeta wanita dari peradaban kuno Patapon.\\Dia adalah tautan langsung antara Patapon dan Tuhan,\dan hidup melalui beberapa generasi suku Patapon.\\Ranrurupon sangat sekali peduli \untuk setiap Patapon,\membesarkan dan mengajarkan anak-anak.\\Dia akan melakukan apapun untuk\membantu suku Patapon bertumbuh.
+tip7_desc|Sen adalah pendeta wanita dari peradaban kuno Patapon.\\Dia adalah penghubung langsung\antara Patapon dan Tuhan, dan hidup melalui\berbagai generasi suku Patapon.\\Ranrurupon sangat peduli sekali untuk membesarkan\dan mengajarkan setiap anak-anak Patapon.\\Dia akan melakukan segala cara apapun\untuk membantu suku Patapon tumbuh.
 tip7_title|Sen Ranrurupon di Patapolis Kuno
-tip8_desc|Apakah anda tahu bahwa Patapolis merayakan natal?\\Selama perayaan natal, Patapon menghias\Patapolis dengan berbagai ornamen warna-warni.\\Patapon-patapon kecil menunggu Santapon\untuk memberi mereka apa yang mereka harapkan.\\Biasanya, mereka mendapatkan senjata pertamanya\agar mereka dapat mulai bertempur\untuk Sang Mahakuasa.
+tip8_desc|Apakah kamu tahu bahwa\Patapon juga merayakan natal?\\Selama perayaan natal, Patapon menghias\Patapolis dengan berbagai ornamen warna-warni.\\Patapon-patapon kecil menunggu Santapon\untuk memberi mereka apa yang mereka harapkan.\\Biasanya, mereka mendapatkan senjata pertamanya\agar mereka dapat mulai bertarung\untuk Sang Mahakuasa agar dapat\mencapai ke Ujung Dunia!
 tip8_title|Natal di Patapolis
 tips_anykey|Tekan tombol apapun untuk melanjutkan
 tips_loading|Sedang memuat
