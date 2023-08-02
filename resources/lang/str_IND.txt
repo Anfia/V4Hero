@@ -18,7 +18,7 @@ barracks_stat_level|Level
 barracks_stat_staggerchance|Kemungkinan Membingungkan
 barracks_unit_status|Status Rombongan
 barracks_yaripon|Yaripon
-credits_all|Dan semua yang mendukung projek ini! Terima Kasih!
+credits_all|Dan semua yang mendukung proyek ini! Terima Kasih!
 credits_animators|Animator
 credits_artists|Artis
 credits_community|Pengelola Komunitas
@@ -26,7 +26,7 @@ credits_creator|Pencipta Proyek
 credits_gameplay|Penyeimbang Gameplay
 credits_musicians|Musisi
 credits_programmers|Programmer
-credits_special|Terima kasih special
+credits_special|Terima kasih spesial
 credits_supporters|Pendukung
 credits_translators|Penerjemah
 credits_writers|Penulis
@@ -308,7 +308,7 @@ options_restart_notice|Anda harus restart game agar perubahan berlaku. Restart s
 options_tip1|Tip: Arahkan kursor ke sebuah keybind atau pilih menggunakan tombol panah,\lalu tekan tombol Silang untuk menggantikannya.\Gunakan tombol segitiga untuk menghapus sebuah keybind.\Gunakan nomor-nomor yang ada di atas menu untuk beralih antara preset keybind.
 options_tip2|Tip: Tekan tombol apapun untuk kembali ke menu pengaturan.\Keybind yang baru akan ditetapkan setelah anda keluar dari menu pengaturan.
 options_tip3|Tip: Tekan tombol Start di keyboard untuk lanjut.\Tekan tombol Lingkaran untuk keluar dari pengaturan kontroler.
-options_unlimited|(tidak dibatas)
+options_unlimited|(tak terbatas)
 options_volume|Volume:
 options_volume1|Volume Master:
 options_volume2|Volume Suara:
@@ -386,3 +386,4 @@ worldmap_select|Pilih Petualangan
 // @Kijillo
 // @TBAdriel
 // @Kijillo
+// @Anfia_17
